@@ -44,6 +44,7 @@ Dockerfile             # PyTorch 2.4.0 / CUDA 11.8 runtime
 ```
 
 ## Usage
+<img width="1412" height="175" alt="Label for FDL Produts-01" src="https://github.com/user-attachments/assets/3b63117d-4415-437b-ad8e-fe4f4cec042d" />
 
 ### Download and process data
 
